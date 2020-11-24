@@ -1,36 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to Feeding Hands
 
-You can use the [editor on GitHub](https://github.com/danielasugih/danielasugih.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Check out our [website](http://feeding-hands.com/) for more information on how to donate and updates on our current, past, and future events.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We also have an [Instagram page](https://www.instagram.com/feedinghands/) and a [YouTube channel](https://www.youtube.com/channel/UCI-NXH1N9zKnrXJ04hdUnEA) to view highlights of our two-year journey. 
 
-### Markdown
+### Who are we
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Feeding Hands envisions a sustainable world that consciously strives to combat resource waste._ Feeding Hands gathers supplies such as ingredients, raw food, and ready-to-go food that are still in good condition from our local culinary and supermarket industry. Feeding Hands will then repackage and redistribute the meals to the underprivileged.
 
 ```markdown
-Syntax highlighted code block
+Mission
 
-# Header 1
-## Header 2
-### Header 3
+Our mission is to **reduce food waste** through the redistribution of nearly expired goods - from our local culinary and supermarket industry - to underprivileged communities.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Gallery of Photos (Past Events)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danielasugih/danielasugih.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We were honoured to be featured and interviewed by Kompas. Here is a screenshot of our feature on the Sunday newspaper. ![Kompas Feature](https://kompas.id/label/feeding-hands/)
 
 ### Support or Contact
 
