@@ -16,7 +16,7 @@ Our mission is to **reduce food waste** through the redistribution of nearly exp
 
 ### Gallery of Photos (Past Events)
 
-We were honoured to be featured and interviewed by Kompas. Here is a screenshot of our feature on the Sunday newspaper. ![Kompas Feature](https://kompas.id/label/feeding-hands/)
+We were honoured to be featured and interviewed by Kompas. Here is a screenshot of our feature on the Sunday newspaper. ![Kompas Feature](https://www.google.com/url?sa=i&url=http%3A%2F%2Ffeeding-hands.com%2F&psig=AOvVaw2n-Si21jnKkApqPUp3Lf-I&ust=1606302423886000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICDrP2Em-0CFQAAAAAdAAAAABAD)
 
 ### Support or Contact
 
